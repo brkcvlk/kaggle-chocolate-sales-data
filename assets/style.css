@@ -1,0 +1,35 @@
+div.data-radio {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    border: none;
+}
+
+div.data-radio>label {
+    margin-right: 10px;
+}
+
+
+span.column-header-name {
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
+
+body {
+    color: #1f1e1e;
+    background-color: white;
+    font-family: "Segoe UI", sans-serif;
+}
+
+
+.cell-table>tbody {
+    color : #1f1e1e;
+    border: none;
+}
+
+div>button {
+    background-color: white;
+    color:#1f1e1e;
+}
